@@ -1,2 +1,0 @@
-# neuroverse.to
-neuroverse.to
